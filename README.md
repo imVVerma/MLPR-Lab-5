@@ -14,7 +14,7 @@
 Detected faculty faces using Haar Cascade and enclosed each face within a bounding box.
 
 **Output** 
-![Image 1](Image1.png)
+![Image 1](image_1.png)
 
 
 ### Step 2: K Means Clustering
